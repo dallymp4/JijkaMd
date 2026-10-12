@@ -20,3 +20,4 @@ jobs:
           SESSION: ${{ secrets.SESSION }}
           MY_CHANNEL: ${{ secrets.MY_CHANNEL }}
           TARGET: ${{ secrets.TARGET }}
+          TOPIC: ${{ secrets.TOPIC }}
